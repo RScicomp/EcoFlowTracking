@@ -1,6 +1,8 @@
 # EcoFlow Delta 2 Monitoring System
 
 A comprehensive monitoring and analytics system for EcoFlow Delta 2 portable batteries. Track power usage, battery health, energy efficiency, and usage patterns over time.
+<img width="1417" height="782" alt="Screenshot 2025-07-13 at 2 42 01 PM" src="https://github.com/user-attachments/assets/e8e3fe3f-e8c2-470c-b75b-0cdac31d2746" />
+<img width="1403" height="834" alt="Screenshot 2025-07-13 at 2 42 16 PM" src="https://github.com/user-attachments/assets/458ba6eb-eff0-4b6e-9539-ca5883737261" />
 
 ## Features
 
